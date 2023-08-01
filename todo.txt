@@ -5,3 +5,4 @@ My To-Do List
 4. Attend Classes on time.
 5 Visit aunt
 6 Appy for remote jobs
+7. Practice code
